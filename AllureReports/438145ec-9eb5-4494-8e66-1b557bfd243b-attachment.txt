@@ -1,0 +1,12 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:137 The chromedriver version (137.0.7151.68) detected in PATH at C:\Users\Akshay\AppData\Local\Programs\Python\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (138.0.7204.101); currently, chromedriver 138.0.7204.157 is recommended for chrome 138.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m utilities.Logger:test_CredKart_User_Profile.py:160 Testcase test_CredKart_Registration_003 is started 
+[32mINFO    [0m utilities.Logger:test_CredKart_User_Profile.py:161 Opening browser and landing the correct page--https://automation.credence.in/register
+[32mINFO    [0m utilities.Logger:test_CredKart_User_Profile.py:168 Entering Name--Kimberly Glover
+[32mINFO    [0m utilities.Logger:test_CredKart_User_Profile.py:172 Entering Email--kwilson@example.org
+[32mINFO    [0m utilities.Logger:test_CredKart_User_Profile.py:176 Entering the password
+[32mINFO    [0m utilities.Logger:test_CredKart_User_Profile.py:180 Entering Confirm Password
+[32mINFO    [0m utilities.Logger:test_CredKart_User_Profile.py:184 Entering on Registration button
+[32mINFO    [0m utilities.Logger:test_CredKart_User_Profile.py:188 Verify user Registration Successfully
+[32mINFO    [0m utilities.Logger:test_CredKart_User_Profile.py:190 user Registration Successfully
+[32mINFO    [0m utilities.Logger:test_CredKart_User_Profile.py:193 Clicking on Menu Button
+[32mINFO    [0m utilities.Logger:test_CredKart_User_Profile.py:195 Clicking on the logout link
