@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 This is sample test file
+=======
+This is sample data file
+this file edit through globle git.
+edit today file -- 22-07-2025
+
+2nd time editing from local
+>>>>>>> fd23548dbed7211f46e58fead6cfe7eccee310d4
